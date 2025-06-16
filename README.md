@@ -1,3 +1,9 @@
+README.md
+
+Your Readme is Done 🎉🎉🎉
+Star This Project
+Fork on Github
+
 <br clear="both">
 
 <h1 align="left">Hey 👋 What's up?</h1>
@@ -12,7 +18,7 @@
 
 ###
 
-<h3 align="left">📚 I'm currently learning all types of langues in programming<br>🎯 Goals: Finding myself in what I do<br>🎲 Fun fact: Since I was 4 years old I wanted to be an IT guy</h3>
+<h3 align="left">📚 I'm currently learning all types of programming languages<br>🎯 Goals: to find my calling<br>🎲 Fun fact: Since I was 4 years old I wanted to work at IT</h3>
 
 ###
 
@@ -75,3 +81,34 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=qomel.qomel&left_text=someone%20look%20-%3E"  />
 
 ###
+A white circle with a dark file icon outlined in the center
+Profile Readme Generator
+Developed and maintained by Mauro de Souza
+Github
+Donate
+Share
+Privacy Policy
+Copy File Content
+Level Up Your README
+Anyone can use templates — but when you know what you’re doing, it shows.
+
+👉 Explore resources that will upgrade your skills — and your README. Start now.
+
+
+Clean Code
+A Handbook of Agile Software Craftsmanship by Uncle Bob.
+
+Get the book
+
+Clean Architecture
+Software Architecture Solutions from Uncle Bob.
+
+Get the book
+
+Explore More Books
+Browse the full list of curated titles to boost your coding skills.
+
+More books
+💡 This panel contains affiliate links. If you find something useful and make a purchase, I may earn a small commission ☕. Thanks for the support ❤
+Profile Readme Generator
+⚙
