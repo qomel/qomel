@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="left">📚 I'm currently learning all types of programming languages<br>🎯 Goals: to find my calling<br>🎲 Fun fact: Since I was 4 years old I wanted to work at IT</h3>
+<h3 align="left">📚 I'm currently learning all types of programming languages<br>🎯 Goals: to find my calling<br>🎲 Fun fact: Since I was 4 years old I wanted to work in IT</h3>
 
 ###
 
